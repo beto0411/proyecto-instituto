@@ -1,7 +1,11 @@
 <?php include_once 'includes/templates/header.php'; ?>
       <section class="seccion contenedor">
-        <h2>mision</h2>
-        <p>Nuestra mision es difundir el conosimiento atravez de los docentes con la vocacion nesesaria y calificados para conectarlos con las personas interesadas en adqurir ese conosimiento.</p>
+        <h2>misión</h2>
+        <p>
+          Nuestra misión es difundir el conocimiento a través de los docentes con la vocación necesaria,
+          para conectarlos con las personas interesadas en adquirir ese conocimiento que proporcionándoles
+          a estos un auténtico valor curricular y dignificando la labor de los docentes
+        </p>
       </section><!--seccion-->
 
       <section  class="programa">
@@ -93,6 +97,15 @@
       </section> <!--contenedor-programa-->
 
 <?php include_once 'includes/templates/invitados.php'; ?>
+
+<section class="seccion contenedor">
+  <h2>visión</h2>
+  <p>
+    Llegar a ser una institución educativa reconocida en la región por impartir cursos
+    de calidad, diferentes y disruptivos rompiendo así con el modelo tradicional de
+    enseñanza centrada en el conocimiento.
+  </p>
+</section><!--seccion-->
 
         <div class="contador parallax">
           <div class="contenedor">
